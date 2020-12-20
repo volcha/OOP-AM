@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\bin\Debug\netcoreapp3.1\Lab9_2_Lambda.exe
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\bin\Debug\netcoreapp3.1\Lab9_2_Lambda.deps.json
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\bin\Debug\netcoreapp3.1\Lab9_2_Lambda.runtimeconfig.json
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\bin\Debug\netcoreapp3.1\Lab9_2_Lambda.runtimeconfig.dev.json
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\bin\Debug\netcoreapp3.1\Lab9_2_Lambda.dll
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\bin\Debug\netcoreapp3.1\Lab9_2_Lambda.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\obj\Debug\netcoreapp3.1\Lab9_2_Lambda.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\obj\Debug\netcoreapp3.1\Lab9_2_Lambda.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\obj\Debug\netcoreapp3.1\Lab9_2_Lambda.AssemblyInfo.cs
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\obj\Debug\netcoreapp3.1\Lab9_2_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\obj\Debug\netcoreapp3.1\Lab9_2_Lambda.dll
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\obj\Debug\netcoreapp3.1\Lab9_2_Lambda.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_2_Lambda\obj\Debug\netcoreapp3.1\Lab9_2_Lambda.genruntimeconfig.cache

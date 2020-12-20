@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\bin\Debug\netcoreapp3.1\Lab9_1_delegate.exe
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\bin\Debug\netcoreapp3.1\Lab9_1_delegate.deps.json
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\bin\Debug\netcoreapp3.1\Lab9_1_delegate.runtimeconfig.json
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\bin\Debug\netcoreapp3.1\Lab9_1_delegate.runtimeconfig.dev.json
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\bin\Debug\netcoreapp3.1\Lab9_1_delegate.dll
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\bin\Debug\netcoreapp3.1\Lab9_1_delegate.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\obj\Debug\netcoreapp3.1\Lab9_1_delegate.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\obj\Debug\netcoreapp3.1\Lab9_1_delegate.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\obj\Debug\netcoreapp3.1\Lab9_1_delegate.AssemblyInfo.cs
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\obj\Debug\netcoreapp3.1\Lab9_1_delegate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\obj\Debug\netcoreapp3.1\Lab9_1_delegate.dll
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\obj\Debug\netcoreapp3.1\Lab9_1_delegate.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab9\Lab9_1_delegate\obj\Debug\netcoreapp3.1\Lab9_1_delegate.genruntimeconfig.cache
