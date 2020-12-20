@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache
